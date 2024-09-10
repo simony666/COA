@@ -1,8 +1,8 @@
-# Ignore everything
-*
+# Ignore everything including subfolders
+**/*
 
 # Except .asm files
-!*.asm
+!**/*.asm
 
-# Optional: Ignore .gitignore itself
+# Optional: Ensure .gitignore is not ignored
 !.gitignore
