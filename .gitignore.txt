@@ -1,6 +1,6 @@
 # Ignore everything including subfolders
 **/*
-/COA/*
+COA/*
 
 # Except .asm files
 !**/*.asm
